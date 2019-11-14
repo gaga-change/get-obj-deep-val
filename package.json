@@ -1,0 +1,11 @@
+{
+  "name": "get-obj-deep-val",
+  "version": "1.0.0",
+  "description": "获取对象属性值，不论层级",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "严俊东",
+  "license": "ISC"
+}
